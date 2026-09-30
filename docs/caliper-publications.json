@@ -1,0 +1,410 @@
+[
+ {
+  "no": 1,
+  "citation": "Adeli K, Higgins V, Trajcevski K, White-Al Habeeb N. The Canadian laboratory initiative on pediatric reference intervals: A CALIPER white paper. Crit Rev Clin Lab Sci. 2017 Sep;54(6):358-413. doi: 10.1080/10408363.2017.1379945.",
+  "doi": "10.1080/10408363.2017.1379945",
+  "year": 2017,
+  "has_pediatric_RI": true,
+  "note": "백서(CALIPER 전반 개관)"
+ },
+ {
+  "no": 2,
+  "citation": "Adeli K, Higgins V, Trajcevski K, Palmert MR. Important considerations for interpreting biochemical tests in children. BMJ. 2018 May 24;361:k1950. doi: 10.1136/bmj.k1950.",
+  "doi": "10.1136/bmj.k1950",
+  "year": 2018,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 3,
+  "citation": "Higgins V, Asgari S, Hamilton JK, Wolska A, Remaley AT, Hartmann B, Holst JJ, Adeli K. Postprandial dyslipidemia, hyperinsulinemia, and impaired gut peptides/bile acids in adolescents with obesity. J Clin Endocrinol Metab. 2020 Apr 1; 105(4):dgz261. doi: 10.1210/clinem/dgz261.",
+  "doi": "10.1210/clinem/dgz261",
+  "year": 2020,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 4,
+  "citation": "Higgins V, Omidi A, Tahmasebi H, Asgari S, Gordanifar K, Nieuwesteeg M, Adeli K. Marked influence of adiposity on laboratory biomarkers in a healthy cohort of children and adolescents. J Clin Endocrinol Metab. 2020 Apr 1;105(4):dgz161. doi: 10.1210/clinem/dgz161.",
+  "doi": "10.1210/clinem/dgz161",
+  "year": 2020,
+  "has_pediatric_RI": true,
+  "note": "비만이 검사값에 미치는 영향(구간 자체 아님)"
+ },
+ {
+  "no": 5,
+  "citation": "Tahmasebi H, Asgari S, Hall A, Higgins V, Chowdhury A, Thompson R, Bohn MK, Macri J, Adeli K. Influence of ethnicity on biochemical markers of health and disease in the CALIPER cohort of healthy children and adolescents. Clin Chem Lab Med. 2020 Mar 26;58(4):605-617. doi: 10.1515/cclm-2019-0876.",
+  "doi": "10.1515/cclm-2019-0876",
+  "year": 2020,
+  "has_pediatric_RI": true,
+  "note": "인종별 분할 분석"
+ },
+ {
+  "no": 6,
+  "citation": "Badakhshan SN, Ghazizadeh H, Mohammadi-Bajgiran M, et al. Age-specific reference intervals for liver function tests in healthy neonates, infants, and young children in Iran. J Clin Lab Anal. 2023;37(23-24):e24995. doi:10.1002/jcla.24995",
+  "doi": "10.1002/jcla.24995",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": "이란 소아"
+ },
+ {
+  "no": 7,
+  "citation": "Barakauskas VE, Bohn MK, Branch E, et al. Mining the Gap: Deriving Pregnancy Reference Intervals for Hematology Parameters Using Clinical Datasets. Clin Chem. 2023;69(12):1374-1384. doi:10.1093/clinchem/hvad167",
+  "doi": "10.1093/clinchem/hvad167",
+  "year": 2023,
+  "has_pediatric_RI": false,
+  "note": "임신부 구간(소아 아님)"
+ },
+ {
+  "no": 8,
+  "citation": "Stukas S, Cooper J, Higgins V, Holmes D, Adeli K, Wellington CL. Pediatric reference intervals for serum neurofilament light and glial fibrillary acidic protein using the Canadian Laboratory Initiative on Pediatric Reference Intervals (CALIPER) cohort. Clin Chem Lab Med. 2023;62(4):698-705. Published 2023 Oct 27. doi:10.1515/cclm-2023-0660",
+  "doi": "10.1515/cclm-2023-0660",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 9,
+  "citation": "Miller JJ, Bohn MK, Higgins V, et al. Pediatric reference intervals for endocrine markers in healthy children and adolescents on the Liaison XL (DiaSorin) immunoassay system. Clin Biochem. 2023;120:110644. doi:10.1016/j.clinbiochem.2023.110644",
+  "doi": "10.1016/j.clinbiochem.2023.110644",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 10,
+  "citation": "Bohn MK, Steele S, Adeli K. SARS-CoV-2 serology in pediatrics: Seroprevalence studies in unvaccinated children and humoral antibody response post vaccination. Clin Biochem. 2023;119:110630. doi:10.1016/j.clinbiochem.2023.110630",
+  "doi": "10.1016/j.clinbiochem.2023.110630",
+  "year": 2023,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 11,
+  "citation": "Mohammadi M, Ghazizadeh H, Mohammadi-Bajgiran M, et al. Pediatric reference intervals for hematology parameters in healthy infants and young children in Iran. Int J Lab Hematol. 2023;45(6):845-852. doi:10.1111/ijlh.14132",
+  "doi": "10.1111/ijlh.14132",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": "이란 소아"
+ },
+ {
+  "no": 12,
+  "citation": "Bohn MK, Nichols M, Yang L, Bhayana V, Macri J, Adeli K. Pediatric Reference Value Profiling of Essential Trace and Toxic Elements in Healthy Children and Adolescents Using High-Resolution and Triple Quadrupole Inductively Coupled Plasma Mass Spectrometry. J Appl Lab Med. 2023;8(4):674-688. doi:10.1093/jalm/jfad019",
+  "doi": "10.1093/jalm/jfad019",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 13,
+  "citation": "Bohn MK, Schneider R, Jung B, Adeli K. Pediatric reference interval verification for 16 biochemical markers on the Alinity ci system in the CALIPER cohort of healthy children and adolescents. Clin Chem Lab Med. 2023;61(11):2033-2040. Published 2023 May 1. doi:10.1515/cclm-2023-0256",
+  "doi": "10.1515/cclm-2023-0256",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 14,
+  "citation": "Di Meo A, Yazdanpanah M, Higgins V, et al. Highly sensitive tandem mass spectrometric measurement of serum estradiol without derivatization and pediatric reference intervals in children and adolescents. Clin Chem Lab Med. 2023;61(10):1820-1828. Published 2023 Apr 11. doi:10.1515/cclm-2022-1231",
+  "doi": "10.1515/cclm-2022-1231",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 15,
+  "citation": "Ghazizadeh H, Kathryn Bohn M, Esmaily H, et al. Comparison of reference intervals for biochemical and hematology markers derived by direct and indirect procedures based on the Isfahan cohort study. Clin Biochem. 2023;116:79-86. doi:10.1016/j.clinbiochem.2023.04.001",
+  "doi": "10.1016/j.clinbiochem.2023.04.001",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": "이란, 직접/간접법 비교"
+ },
+ {
+  "no": 16,
+  "citation": "Bohn MK, Adeli K. Comprehensive Pediatric Reference Limits for High-Sensitivity Cardiac Troponin I and NT-proBNP in the CALIPER Cohort. J Appl Lab Med. 2023;8(3):443-456. doi:10.1093/jalm/jfad012",
+  "doi": "10.1093/jalm/jfad012",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 17,
+  "citation": "Bohn MK, Wilson S, Steele S, Adeli K. Comprehensive pediatric reference intervals for 79 hematology markers in the CALIPER cohort of healthy children and adolescents using the Mindray BC-6800Plus system. Int J Lab Hematol. 2023;45(4):469-480. doi:10.1111/ijlh.14068",
+  "doi": "10.1111/ijlh.14068",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 18,
+  "citation": "Wilson SM, Bohn MK, Madsen A, Hundhausen T, Adeli K. LMS-based continuous reference percentiles for 14 laboratory parameters in the CALIPER cohort of healthy children and adolescents. Clin Chem Lab Med. 2023;61(6):1105-1115. Published 2023 Jan 16. doi:10.1515/cclm-2022-1077",
+  "doi": "10.1515/cclm-2022-1077",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": "LMS 연속 백분위"
+ },
+ {
+  "no": 19,
+  "citation": "Abdollahian N, Ghazizadeh H, Mohammadi-Bajgiran M, Pashirzad M, Yaghooti Khorasani M, Bohn MK, Steele S, Roudi F, Kamel Khodabandeh A, Ghazi Zadeh S, Alami-Arani I, Badakhshan SN, Esmaily H, Ferns GA, Assaran-Darban R, Adeli K, Ghayour-Mobarhan M. Age-specific reference intervals for routine biochemical parameters in healthy neonates, infants, and young children in Iran. J Cell Mol Med. 2023 Jan;27(1):158-162. doi: 10.1111/jcmm.17646.",
+  "doi": "10.1111/jcmm.17646",
+  "year": 2023,
+  "has_pediatric_RI": true,
+  "note": "이란 소아"
+ },
+ {
+  "no": 20,
+  "citation": "Haeckel R, Adeli K, Jones G, Sikaris K, Wosniok W. Definitions and major prerequisites of direct and indirect approaches for estimating reference limits. Clin Chem Lab Med. 2022 Dec 2;61(3):402-406. doi: 10.1515/cclm-2022-1061.",
+  "doi": "10.1515/cclm-2022-1061",
+  "year": 2022,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 21,
+  "citation": "Olver P, Bohn MK, Adeli K. Central role of laboratory medicine in public health and patient care. Clin Chem Lab Med. 2022 Nov 28;61(4):666-673. doi: 10.1515/cclm-2022-1075.",
+  "doi": "10.1515/cclm-2022-1075",
+  "year": 2022,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 22,
+  "citation": "Bohn MK, Wilson S, Schneider R, Massamiri Y, Randell EW, Adeli K. Pediatric reference interval verification for 17 specialized immunoassays and cancer markers on the Abbott Alinity i system in the CALIPER cohort of healthy children and adolescents. Clin Chem Lab Med. 2022 Sep 19;61(1):123-132. doi: 10.1515/cclm-2022-0709.",
+  "doi": "10.1515/cclm-2022-0709",
+  "year": 2022,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 23,
+  "citation": "Sepiashvili L, Bohn MK, Hall A, Henderson T, Chen J, Dunst R, Adeli K. Determination of pediatric reference limits for 10 commonly measured autoantibodies. Clin Chem Lab Med. 2022 Sep 19;60(11):1839-1846. doi: 10.1515/cclm-2022-0675.",
+  "doi": "10.1515/cclm-2022-0675",
+  "year": 2022,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 24,
+  "citation": "Ronn R, Bohn MK, Greenblatt EM, Hoffman B, Adeli K. Anti-Mullerian Hormone (AMH) reference values in the CALIPER cohort of healthy community children and adolescent. Clin Biochem. 2022 Oct;108:63-6. doi: 10.1016/j.clinbiochem.2022.06.005.",
+  "doi": "10.1016/j.clinbiochem.2022.06.005",
+  "year": 2022,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 25,
+  "citation": "Wilson S, Earle H, Bohn MK, Hall A, Adeli K. Pediatric Reference Intervals for Point-of-Care Random Glucose in Healthy Children and Adolescents. J Appl Lab Med. 2022 Mar 2;7(2):582-88. doi: 10.1093/jalm/jfab155.",
+  "doi": "10.1093/jalm/jfab155",
+  "year": 2022,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 26,
+  "citation": "He F, Yang R, Huang X, Tian Y, Pei X, Bohn MK, Zou L, Wang Y, Li H, Wang T, Gu M, Jiang T, Chen X, Zou H, Wei H, Tian W, Tang T, Adeli K, Wang Z. Reference Standards for Newborn Screening of Metabolic Disorders by Tandem Mass Spectrometry: A Nationwide Study on Millions of Chinese Neonatal Populations. Front Mol Biosci. 2021 Dec 16;8:719866. doi: 10.3389/fmolb.2021.719866.",
+  "doi": "10.3389/fmolb.2021.719866",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": "중국 신생아 MS/MS"
+ },
+ {
+  "no": 27,
+  "citation": "Bohn MK, Horn P, League D, Steele P, Hall A, Adeli K. Pediatric reference intervals for 32 routine biochemical markers using the siemens healthineers atellica® CH assays in healthy children and adolescents. Clin Biochem. 2022 Jan;99:69-77. doi: 10.1016/j.clinbiochem.2021.10.006.",
+  "doi": "10.1016/j.clinbiochem.2021.10.006",
+  "year": 2022,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 28,
+  "citation": "Bohn MK, Adeli K. Physiological and metabolic adaptations in pregnancy: importance of trimester-specific reference intervals to investigate maternal health and complications. Crit Rev Clin Lab Sci. 2022 Mar;59(2):76-92. doi: 10.1080/10408363.2021.1978923.",
+  "doi": "10.1080/10408363.2021.1978923",
+  "year": 2022,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 29,
+  "citation": "Sepiashvili L, Alli Z, Bohn MK, Hall A, Karin A, Murata K, Adeli K. Complex biological patterns of soluble cytokines and CD136 in childhood necessitating age-specific reference intervals for evidence-based clinical interpretation. Clin Biochem. 2021 Dec;98:35-41. doi: 10.1016/j.clinbiochem.2021.09.004.",
+  "doi": "10.1016/j.clinbiochem.2021.09.004",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 30,
+  "citation": "Bohn MK, Yousef P, Steele S, Sepiashvili L, Adeli K. Multi-Inflammatory Syndrome in Children: A View into Immune Pathogenesis from a Laboratory Perspective. J Appl Lab Med. 2022 Jan 5;7(1):311-21. doi: 10.1093/jalm/jfab114.",
+  "doi": "10.1093/jalm/jfab114",
+  "year": 2022,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 31,
+  "citation": "Wilson S, Bohn MK, Adeli K. POCT: An Inherently Ideal Tool in Pediatric Laboratory Medicine. EJIFCC. 2021 Jun 29;32(2):145-157.",
+  "doi": null,
+  "year": 2021,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 32,
+  "citation": "Wilson S, Bohn MK, Hall A, Higgins V, Abdelhaleem M, Adeli K. Continuous reference curves for common hematology markers in the CALIPER cohort of healthy children and adolescents on the Sysmex XN-3000 system. Int J Lab Hematol. 2021 Dec;43(6):1394-1402. doi: 10.1111/ijlh.13670.",
+  "doi": "10.1111/ijlh.13670",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 33,
+  "citation": "Bohn MK, Wilson S, Hall A, Adeli K. Pediatric reference interval verification for endocrine and fertility hormone assays on the Abbott Alinity system. Clin Chem Lab Med. 2021 Jun 30;59(10):1680-1687. doi: 10.1515/cclm-2021-0337.",
+  "doi": "10.1515/cclm-2021-0337",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 34,
+  "citation": "Bohn MK, Steele S, Hall A, Poonia J, Jung B, Adeli K. Cardiac Biomarkers in Pediatrics: An Undervalued Resource. Clin Chem. 2021 Jul 6;67(7):947-958. Review. doi: 10.1093/clinchem/hvab063.",
+  "doi": "10.1093/clinchem/hvab063",
+  "year": 2021,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 35,
+  "citation": "Bohn MK, Hall A, Wilson S, Henderson T, Adeli K. Pediatric Reference Intervals for Critical Point-of-Care Whole Blood Assays in the CALIPER Cohort of Healthy Children and Adolescents. Am J Clin Pathol. 2021 Nov 8;156(6):1030-1037. doi: 10.1093/ajcp/aqab064.",
+  "doi": "10.1093/ajcp/aqab064",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 36,
+  "citation": "Hamid JS, Atenafu EG, Borkhoff CM, Birken CS, Maguire JL, Bohn MK, Adeli K, Abdelhaleem M, Parkin PC. Reference intervals for hemoglobin and mean corpuscular volume in an ethnically diverse community sample of Canadian children 2 to 36 months. BMC Pediatr. 2021 May 19;21(1):241. doi: 10.1186/s12887-021-02709-w.",
+  "doi": "10.1186/s12887-021-02709-w",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": "2-36개월 Hb/MCV"
+ },
+ {
+  "no": 37,
+  "citation": "Bohn MK, Wilson S, Hall A, Massamiri Y, Randell E, Adeli K. Pediatric reference interval verification for common biochemical assays on the Abbott Alinity system. Clin Chem Lab Med. 2021 May 19;59(9):1554-1562. doi: 10.1515/cclm-2021-0336.",
+  "doi": "10.1515/cclm-2021-0336",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 38,
+  "citation": "Bohn MK, Horn P, League D, Steele P, Hall A, Adeli K. Pediatric reference intervals for endocrine markers and fertility hormones in healthy children and adolescents on the Siemens Healthineers Atellica immunoassay system. Clin Chem Lab Med. 2021 May 7;59(8):1421-1430. doi: 10.1515/cclm-2021-0050.",
+  "doi": "10.1515/cclm-2021-0050",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 39,
+  "citation": "Hall A, Bohn MK, Wilson S, Higgins V, Adeli K. Continuous reference intervals for 19 endocrine, fertility, and immunochemical markers in the CALIPER cohort of healthy children and adolescents. Clin Biochem. 2021 Aug;94:35-41. doi: 10.1016/j.clinbiochem.2021.04.014.",
+  "doi": "10.1016/j.clinbiochem.2021.04.014",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 40,
+  "citation": "Bohn MK, Hall A, Wilson S, Taher J, Sepiashvili L, Adeli K. Pediatric evaluation of clinical specificity and sensitivity of SARS-CoV-2 IgG and IgM serology assays. Clin Chem Lab Med. 2021 Jan 22;59(6):e235-e237. doi: 10.1515/cclm-2020-1822.",
+  "doi": "10.1515/cclm-2020-1822",
+  "year": 2021,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 41,
+  "citation": "Lam E, Higgins V, Zhang L, Chan MK, Bohn MK, Trajcevski K, Liu P, Adeli K, Nathan PC. Normative values of high-sensitivity cardiac troponin T and N-terminal pro-B-type natriuretic peptide in children and adolescents: A study from the CALIPER cohort. J Appl Lab Med. 2021 Mar 1;6(2):344-353. doi: 10.1093/jalm/jfaa090.",
+  "doi": "10.1093/jalm/jfaa090",
+  "year": 2021,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 42,
+  "citation": "Bohn MK, Higgins V, Tahmasebi H, Hall A, Liu E, Adeli K, Abdelhaleem M. Complex biological patterns of hematology parameters in childhood necessitating age- and sex-specific reference intervals for evidence-based clinical interpretation. Int J Lab Hematol. 2020 Dec;42(6):750-760. doi: 10.1111/ijlh.13306.",
+  "doi": "10.1111/ijlh.13306",
+  "year": 2020,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 43,
+  "citation": "Thompson S, Bohn MK, Mancini N, Loh TP, Wang CB, Grimmler M, Yuen KY, Mueller R, Koch D, Sethi S, Rawlinson WD, Clementi M, Erasmus R, Leportier M, Kwon GC, Menezes ME, Patru MM, Gramegna M, Singh K, Najjar O, Ferrari M, Lippi G, Adeli K, Horvath A and the IFCC Taskforce on COVID-19. IFCC interim guidelines on biochemical/hematological monitoring of COVID-19 patients. Clin Chem Lab Med. 2020 Oct 7;58(12):2009-2016. doi: 10.1515/cclm-2020-1414.",
+  "doi": "10.1515/cclm-2020-1414",
+  "year": 2020,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 44,
+  "citation": "Bohn MK, Loh TP, Wang CB, Mueller R, Koch D, Sethi S, Rawlinson WD, Clementi M, Erasmus R, Leportier M, Grimmler M, Yuen KY, Mancini N, Kwon GC, Menezes ME, Patru MM, Gramegna M, Singh K, Najjar O, Ferrari M, Horvath A, Lippi G, Adeli K and the IFCC Taskforce on COVID-19. IFCC interim guidelines on serological testing of antibodies against SARS-CoV-2. Clin Chem Lab Med. 2020 Oct 7;58(12):2001-2008. doi: 10.1515/cclm-2020-1413.",
+  "doi": "10.1515/cclm-2020-1413",
+  "year": 2020,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 45,
+  "citation": "Bohn MK, Mancini N, Loh TP, Wang CB, Grimmler M, Gramegna M, Yuen KY, Mueller R, Koch D, Sethi S, Rawlinson WD, Clementi M, Erasmus R, Leportier M, Kwon GC, Menezes ME, Patru MM, Singh K, Ferrari M, Najjar O, Horvath A, Adeli K, Lippi G and the IFCC Taskforce on COVID-19. IFCC interim guidelines on molecular testing of SARS-CoV-2 infection. Clin Chem Lab Med. 2020 Oct 7;58(12):1993-2000. doi: 10.1515/cclm-2020-1412.",
+  "doi": "10.1515/cclm-2020-1412",
+  "year": 2020,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 46,
+  "citation": "Bohn MK, Hall A, Sepiashvili L, Jung B, Steele S, Adeli K. Pathophysiology of COVID-19: Mechanisms Underlying Disease Severity Progression. Physiology (Bethesda). 2020 Sep 1;35(5):288-301. doi: 10.1152/physiol.00019.2020.",
+  "doi": "10.1152/physiol.00019.2020",
+  "year": 2020,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 47,
+  "citation": "Higgins V, Tahmasebi H, Bohn MK, Hall A, Adeli K. CALIPER Hematology Reference Standards (I). Am J Clin Pathol. 2020 Aug 5;154(3):330-341. doi: 10.1093/ajcp/aqaa059.",
+  "doi": "10.1093/ajcp/aqaa059",
+  "year": 2020,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 48,
+  "citation": "Higgins V, Tahmasebi H, Bohn MK, Hall A, Adeli K. CALIPER Hematology Reference Standards (II). Am J Clin Pathol. 2020 Aug 5;154(3):342-352. doi: 10.1093/ajcp/aqaa057.",
+  "doi": "10.1093/ajcp/aqaa057",
+  "year": 2020,
+  "has_pediatric_RI": true,
+  "note": ""
+ },
+ {
+  "no": 49,
+  "citation": "Adeli K. Critical role of laboratory medicine in the global response to the COVID-19 pandemic. Clin Chem Lab Med. 2020 Jun 25;58(7):1019-1020. doi: 10.1515/cclm-2020-0742.",
+  "doi": "10.1515/cclm-2020-0742",
+  "year": 2020,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 50,
+  "citation": "Bohn MK, Lippi G, Horvath A, Sethi S, Koch D, Ferrari M, Wang CB, Mancini N, Steele S, Adeli K. Molecular, serological, and biochemical diagnosis and monitoring of COVID-19: IFCC taskforce evaluation and latest evidence. Clin Chem Lab Med. 2020 Jun 25;58(7):1037-1052. doi: 10.1515/cclm-2020-0722.",
+  "doi": "10.1515/cclm-2020-0722",
+  "year": 2020,
+  "has_pediatric_RI": false,
+  "note": ""
+ },
+ {
+  "no": 51,
+  "citation": "Higgins V, Adeli K. Postprandial dyslipidemia in insulin resistant states in adolescent populations. J Biomed Res. 2020 Jan 30;34(5):328-342. doi: 10.7555/JBR.34.20190094.",
+  "doi": "10.7555/JBR.34.20190094",
+  "year": 2020,
+  "has_pediatric_RI": false,
+  "note": ""
+ }
+]
