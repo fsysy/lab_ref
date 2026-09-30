@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "source": "LOINC (Regenstrief Institute) — Top 2000+ Common Lab Results",
+    "url": "https://loinc.org/",
+    "retrievedAt": null,
+    "license": "unverified",
+    "version": null,
+    "description": "scripts/import-loinc.mjs 로 사용자가 내려받은 CSV에서 생성한다. 아직 가져오지 않았다."
+  },
+  "codes": []
+}

@@ -1,0 +1,29 @@
+{
+  "_readme": "교차 검증 전용(앱은 이 파일을 import하지 않는다). 계수는 Labcorp SI Unit Conversion Table, CMEinfo 변환표 PDF, NBME Laboratory Reference Values PDF와 대조하기 위한 자리다. 현재 값은 널리 알려진 관례 환산계수를 기억에서 옮긴 것으로 원문 대조를 하지 못했다: 모든 항목이 verified=false, attribution=null. TODO(verify): 각 PDF에서 값을 직접 옮기고 attribution(labcorp|cmeinfo|nbme)과 verified=true를 채울 것. tolerance는 표의 반올림(유효숫자 3~4자리)을 흡수하기 위한 상대 오차.",
+  "tolerance": 0.005,
+  "entries": [
+    { "analyteId": "glucose", "from": "mg/dL", "to": "mmol/L", "factor": 0.0555, "attribution": null, "verified": false },
+    { "analyteId": "creatinine", "from": "mg/dL", "to": "umol/L", "factor": 88.4, "attribution": null, "verified": false },
+    { "analyteId": "uric-acid", "from": "mg/dL", "to": "umol/L", "factor": 59.48, "attribution": null, "verified": false },
+    { "analyteId": "cholesterol-total", "from": "mg/dL", "to": "mmol/L", "factor": 0.02586, "attribution": null, "verified": false },
+    { "analyteId": "cholesterol-hdl", "from": "mg/dL", "to": "mmol/L", "factor": 0.02586, "attribution": null, "verified": false },
+    { "analyteId": "triglycerides", "from": "mg/dL", "to": "mmol/L", "factor": 0.01129, "attribution": null, "verified": false },
+    { "analyteId": "bilirubin-total", "from": "mg/dL", "to": "umol/L", "factor": 17.1, "attribution": null, "verified": false },
+    { "analyteId": "calcium", "from": "mg/dL", "to": "mmol/L", "factor": 0.2495, "attribution": null, "verified": false },
+    { "analyteId": "calcium", "from": "mg/dL", "to": "meq/L", "factor": 0.499, "attribution": null, "verified": false },
+    { "analyteId": "magnesium", "from": "mg/dL", "to": "mmol/L", "factor": 0.4114, "attribution": null, "verified": false },
+    { "analyteId": "phosphate", "from": "mg/dL", "to": "mmol/L", "factor": 0.3229, "attribution": null, "verified": false },
+    { "analyteId": "iron", "from": "ug/dL", "to": "umol/L", "factor": 0.1791, "attribution": null, "verified": false },
+    { "analyteId": "lactate", "from": "mg/dL", "to": "mmol/L", "factor": 0.111, "attribution": null, "verified": false },
+    { "analyteId": "ammonia", "from": "ug/dL", "to": "umol/L", "factor": 0.5872, "attribution": null, "verified": false },
+    { "analyteId": "cortisol", "from": "ug/dL", "to": "nmol/L", "factor": 27.59, "attribution": null, "verified": false },
+    { "analyteId": "free-t4", "from": "ng/dL", "to": "pmol/L", "factor": 12.87, "attribution": null, "verified": false },
+    { "analyteId": "vitamin-b12", "from": "pg/mL", "to": "pmol/L", "factor": 0.7378, "attribution": null, "verified": false },
+    { "analyteId": "testosterone", "from": "ng/dL", "to": "nmol/L", "factor": 0.03467, "attribution": null, "verified": false },
+    { "analyteId": "bun", "from": "mg/dL{BUN}", "to": "mmol/L{urea}", "factor": 0.357, "attribution": null, "verified": false },
+    { "analyteId": "alt", "from": "U/L", "to": "ukat/L", "factor": 0.01667, "attribution": null, "verified": false },
+    { "analyteId": "hemoglobin", "from": "g/dL", "to": "g/L", "factor": 10, "attribution": null, "verified": false },
+    { "analyteId": "sodium", "from": "meq/L", "to": "mmol/L", "factor": 1, "attribution": null, "verified": false },
+    { "analyteId": "potassium", "from": "meq/L", "to": "mmol/L", "factor": 1, "attribution": null, "verified": false }
+  ]
+}

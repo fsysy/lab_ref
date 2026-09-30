@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "source": "RCPA Harmonised Reference Intervals — Table 6",
+    "url": "https://www.rcpa.edu.au/",
+    "retrievedAt": null,
+    "license": "unverified",
+    "version": null,
+    "description": "TODO(verify): 표 6의 정확한 URL·판·이용 약관 미확인(자동 조회가 403으로 거부됨). 이 파일은 사용자가 준비한 데이터로 채우는 자리이며, 값은 임의로 넣지 않는다. 형식은 docs/reference-format.md 참조."
+  },
+  "intervals": []
+}
